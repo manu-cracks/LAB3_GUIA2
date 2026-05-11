@@ -23,7 +23,9 @@
 | Manual | products.js | 28 | `calculateDiscount` sin validación | Alta | Corregido |
 
 ## Captura del Quality Gate en SonarCloud
+## captura sonar cloud antes de corregir el error
 ![Captura SonarCloud FAILED](image_error.png)
+## Captura sonar cloud despues de corregir el codigo
 ![Captura SonarCloud PASSED](image_corregida.png)
 
 ## Propuesta de mejora
