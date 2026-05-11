@@ -3,7 +3,7 @@
 ## Datos del equipo
 | Campo | Valor |
 | :--- | :--- |
-| Integrante 1 | Manu |
+| Integrante 1 | Manuel elias ore huasaja |
 | Fecha | 11 de Mayo de 2026 |
 | Laboratorio | Laboratorio 02 |
 | Módulo revisado | `src/lab02/products.js` |
