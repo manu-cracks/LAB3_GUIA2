@@ -7,7 +7,7 @@
 | Fecha | 11 de Mayo de 2026 |
 | Laboratorio | Laboratorio 02 |
 | Módulo revisado | `src/lab02/products.js` |
-| URL SonarCloud | [PEGA_AQUÍ_LA_URL_DE_TU_PROYECTO_EN_SONARCLOUD] |
+| URL SonarCloud | [https://sonarcloud.io/summary/overall?id=manu-cracks_LAB3_GUIA2&pullRequest=1] |
 
 ## Herramientas utilizadas
 * ESLint 8.x con reglas: eqeqeq, no-var, no-unused-vars, prefer-const
@@ -23,7 +23,7 @@
 | Manual | products.js | 28 | `calculateDiscount` sin validación | Alta | Corregido |
 
 ## Captura del Quality Gate en SonarCloud
-![Captura SonarCloud FAILED](PON_AQUÍ_LA_IMAGEN_DE_SONARCLOUD_EN_ROJO_DE_LA_RAMA_MAIN.png)
+![Captura SonarCloud FAILED](image_error.png)
 ![Captura SonarCloud PASSED](PON_AQUÍ_LA_IMAGEN_DE_SONARCLOUD_EN_VERDE_DE_LA_RAMA_DEV.png)
 
 ## Propuesta de mejora
