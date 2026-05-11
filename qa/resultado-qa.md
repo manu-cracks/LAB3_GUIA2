@@ -1,1 +1,2 @@
-![Texto Alternativo](imagen.png)
+# ERROR DETECTADO
+![imagen del error](image.png)
