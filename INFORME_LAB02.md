@@ -24,7 +24,7 @@
 
 ## Captura del Quality Gate en SonarCloud
 ![Captura SonarCloud FAILED](image_error.png)
-![Captura SonarCloud PASSED](PON_AQUÍ_LA_IMAGEN_DE_SONARCLOUD_EN_VERDE_DE_LA_RAMA_DEV.png)
+![Captura SonarCloud PASSED](image_corregida.png)
 
 ## Propuesta de mejora
 1. Agregar validación en `calculateDiscount`: `if (!product || product.price == null || product.price < 0)`
