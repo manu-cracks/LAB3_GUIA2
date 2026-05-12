@@ -40,6 +40,6 @@
 ## Resultado Docker 
 > Een el documento del drive esta todas las pruebas
 
-
+![Captura SonarCloud LocalDocker](docker.png)
 ## Enlace al Documento Monográfico (Word)
 [https://drive.google.com/file/d/1LPb931S3V4GoO3hMXf4pHP1Ubd178ksl/view?usp=sharing]
